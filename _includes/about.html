@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -10,7 +10,7 @@
 		<div class="col-lg-3 col-md-4 hidden-sm hidden-xs">
 
 				<div class="client-image-container">
-					<img src="{{site.data.settings.images.client_headshot_path }}" alt="{{site.data.settings.client.company}}" class="client-image" />
+					<img src="/img/logo2.jpg" alt="{{site.data.settings.client.company}}" class="client-image" />
 				</div><br />
 			</div>
 		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
@@ -19,14 +19,19 @@
 		<div class="col-lg-3">
 			<p class="contact-text">
 				<b>{{ site.data.settings.client.name }}</b><br />
-				{% if site.data.settings.client.license_number != null %}
+				{{ site.data.settings.client.title }}</br>
 				{{ site.data.settings.client.license_number }}</br>
-				{% endif %}
+				<b>{{ site.data.settings.client.name2 }}</b><br />
+				{{ site.data.settings.client.title2 }}</br>
+				{{ site.data.settings.client.license_number2 }}</br>
+				<b>{{ site.data.settings.client.name3 }}</b><br />
+				{{ site.data.settings.client.title3 }}</br>
+				{{ site.data.settings.client.license_number3 }}</br>
 				{{ site.data.settings.client.brand }}<br />
 				{% if site.data.settings.client.brokerage != null %}
 				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}
-				{{ site.data.settings.client.address }}<br />
+				<!-- {{ site.data.settings.client.address }}<br /> -->
 				{% if site.data.settings.client.phone2 != null %}
 				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
