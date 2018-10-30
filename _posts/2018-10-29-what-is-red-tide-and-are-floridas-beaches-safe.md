@@ -47,7 +47,7 @@ Here are couple common questions we hear about the red tide:
 
 This year, the red tide was particularly bad; there’s been some conversation about whether or not man-made pollutants have been affecting the severity and frequency of red tides. **The Florida Fish and Wildlife just published a report saying that there is no direct link between the two**; they did, however, go on to admit that if the red tide is present along with the pollutants, the organisms can feed on the pollutants.
 
-**As of right now, red tide is almost non-existent.** Recent water tests even show that there are zero levels of red tide currently in our waters.
+**As of right now, red tide is almost non existent.** Recent water tests even show that there are zero levels of red tide currently in our waters.
 
 With that encouraging fact, feel free to come on down to Florida! The water and weather are awesome.
 
