@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Is Red Tide, and Are Florida’s Beaches Safe?'
-date: 2018-10-29 19:25:12
+date: 2018-10-29 19:25:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cory-lauer-nov-1-no-play.jpg
-youtube_code: Ikv1DpVx5IA
+youtube_code: elSMLBWDnrw
 ---
 
 {% include youtube.html %}
