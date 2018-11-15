@@ -38,7 +38,7 @@ In the $400,000 to $700,000 price range, there are a significant amount of optio
 {% include pullquote.html %}
 {: .present-before-paste}
 
-**In the luxury home market of $1 million and above, we’re also seeing a significant slowdown.** This is primarily because a lot of investors would buy older homes for $700,000 to $900,000 over the last few years and turning them into $2 million to $3 million homes, resulting in a significant amount of choices for buyers in that upper market.
+**In the luxury home market of $1 million and above, we’re also seeing a significant slowdown.** This is primarily because a lot of investors would buy older homes for $700,000 to $900,000 over the last few years and turn them into $2 million to $3 million homes, resulting in a significant amount of choices for buyers in that upper market.
 {: .present-before-paste}
 
 **For home sellers, you need to be able to compete in both a price war and a beauty contest.** You have to be one of the best looking homes on the market and priced appropriately in order to get your home to stand out from the competition.
