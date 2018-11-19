@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Our Real Estate Market Right Now?
-date: 2018-11-13 15:43:29
+date: 2018-11-13 15:43:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cory-lauer-oct-2-no-play.jpg
-youtube_code: 5SKpPj-xp8c
+youtube_code: qVvSYh4ZDuA
 ---
 
 {% include youtube.html %}
