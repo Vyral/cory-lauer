@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays!
+title: "Happy Holidays! \U0001F384"
 date: 2018-12-13 16:11:00
 tags:
   - Real Estate
