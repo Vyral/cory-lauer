@@ -17,4 +17,4 @@ youtube_code: 7wc-xFL-0yU
 
 {% include youtube.html %}
 
-It’s hard to believe that the holiday season is upon us—where did this year go? Well, on behalf of the Cory Lauer Group, we’d like to wish you and your family a very merry Christmas and a happy holiday. We’d also like to take this opportunity to thank you for your business referrals and continued support. It’s been our best year yet! Let us know how we can help you and anyone you know meet your real estate needs in the U.S., Canada, or even the North Pole. Happy holidays, safe travels, and enjoy this wonderful time of year!
+It’s hard to believe that the holiday season is upon us—where did this year go? Well, on behalf of the Cory Lauer Group, we’d like to wish you and your family a very merry Christmas and a happy holiday season. We’d also like to take this opportunity to thank you for your business referrals and continued support. It’s been our best year yet! Let us know how we can help you and anyone you know meet your real estate needs in the U.S., Canada, or even the North Pole. Happy Holidays, safe travels, and enjoy this wonderful time of year!
