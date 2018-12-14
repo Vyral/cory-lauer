@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Thanks for Your Support, and Happy Holidays!'
-date: 2018-12-13 16:11:52
+title: Happy Holidays!
+date: 2018-12-13 16:11:00
 tags:
   - Real Estate
 excerpt:
