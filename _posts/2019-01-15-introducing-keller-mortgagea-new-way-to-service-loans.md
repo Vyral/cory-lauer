@@ -29,4 +29,8 @@ Sellers, let’s say you get an offer from a buyer who wants you to cover some o
 
 Keller Mortgage can also be used for refinancing your loan. **How can this program offer so many great incentives to its users?** It streamlines the process online—there’s not a lot of overhead cost and there’s no advertising or marketing. **They pass along the savings to you.**
 
-[**You can check out the Keller Mortgage app here.**](https://www.kw.com/kw/mobile_real_estate_search.html){: target="_blank"} If you have any questions or need more information, feel free to reach out to us. We look forward to hearing from you soon.
+**You can check out the Keller Mortgage app in the links below.** If you have any questions or need more information, feel free to reach out to us. We look forward to hearing from you soon.
+
+[Click here for Tricia's mobile app for more information.](http://app.kw.com/KW2NZVNNN){: target="_blank"}
+
+[Click here for Cory's mobile app for more information.](http://app.kw.com/KW2NZUXRM){: target="_blank"}
