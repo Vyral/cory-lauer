@@ -23,7 +23,7 @@ youtube_code: b4MDZwYQBto
 
 We wanted to take a few moments to go over a few common inspection items that come up during a home inspection and can be taken care of very easily and at little cost to you. **Fixing these things will also make the buyer more comfortable about going through with the purchase.**
 
-**1. Check your window-balancing rods.** It’s very easy to spot a broken one because you’ll be able to see the metal casing within the window frame. They run about $26 at Builder’s Glass and are pretty easy to replace in about 10 minutes.
+**1. Window-balancing rods.** It’s very easy to spot a broken one because you’ll be able to see the metal casing within the window frame. They run about $26 at Builder’s Glass and only take about 10 minutes to replace.
 
 **2. Slow or clogged drains, as well as any small leaks.**
 
