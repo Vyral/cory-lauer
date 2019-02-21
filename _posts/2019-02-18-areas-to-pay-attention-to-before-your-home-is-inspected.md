@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Areas to Pay Attention to Before Your Home Is Inspected
-date: 2019-02-18 14:56:16
+date: 2019-02-18 14:56:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cory-lauer-feb-01-email.jpg
-youtube_code: b4MDZwYQBto
+youtube_alternate_image: /uploads/cory-lauer-ss-inspections-email.jpg
+youtube_code: FW85IINAlM8
 ---
 
 {% include youtube.html %}
@@ -33,6 +33,6 @@ We wanted to take a few moments to go over a few common inspection items that co
 
 **4. Loose or inoperative door handles or locks.**
 
-**5. &nbsp;Burnt-out lightbulbs.**
+**5.  Burnt-out lightbulbs.**
 
 If you take care of all these little things, it’ll be less you have to worry about when it’s inspection time, and it keeps questions about your home’s condition out of the buyer’s mind. If you have any more questions for me in the meantime, don’t hesitate to give me a call or send me an email. We look forward to hearing from you soon.
