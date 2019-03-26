@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Wetland & Upland Land Sales
-date: 2019-03-26 13:30:58
+date: 2019-03-26 13:30:00
 tags:
   - Real Estate
 excerpt: Today we’ll be discussing the difference between wetlands and uplands.
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cory-lauer-ss-wetland-email.jpg
+youtube_alternate_image: /uploads/cory-lauer-ss-new-email.jpg
 youtube_code: 5F-oJUcndK4
 ---
 
