@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cory-lauer-ss-new-email.jpg
-youtube_code: 5F-oJUcndK4
+youtube_code: XzqlbITy1dw
 ---
 
 {% include youtube.html %}
