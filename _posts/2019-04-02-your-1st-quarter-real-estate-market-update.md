@@ -21,7 +21,7 @@ youtube_code: MNFkxYrcXCc
 
 To start off our latest market update, we’ll be answering everyone’s biggest question: Are we in a seller’s market or a buyer’s market?
 
-**Well, I think we’re in neither—we’re in a balanced market.** Here’s why:
+**Well, I think we're not in either—we’re in a balanced market.** Here’s why:
 
 **1. Sales are virtually identical.** We’ve had the same amount of sales from the fourth quarter of 2018 to the first quarter of 2019. If it wasn’t for January, which is typically a slow month, we wouldn’t see any difference in the number of sales.
 
